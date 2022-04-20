@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential-vulnerability/master/default-credential-vulnerability.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/default-credential.png"></p>
 
 An adversary may gain unauthorized access using the default username and password.
 
