@@ -2,13 +2,15 @@
 
 Manufacturers or developers typically set default credentials, such as username and password combinations, for devices, software, and systems. These credentials are intended for initial access. A threat actor may exploit default credentials to gain unauthorized access to the system or data.
 
-## Example #1
+## Example
 
+Clone this current repo recursively
 
-1. Threat actor requests a web application interface
-2. Sever sends a login request
-3. Threat actor uses admin for as username and admin for password
-4. Sever sends the web application interface
+```sh
+git clone --recursive https://github.com/qeeqbox/default-credential
+```
+
+Run the webapp using Python
 
 ## Impact
 Vary
