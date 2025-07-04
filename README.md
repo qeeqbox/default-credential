@@ -5,12 +5,16 @@ Manufacturers or developers typically set default credentials, such as username 
 ## Example
 
 Clone this current repo recursively
-
 ```sh
 git clone --recursive https://github.com/qeeqbox/default-credential
 ```
-
 Run the webapp using Python
+```sh
+python3 default-credential/vulnerable-web-app/webapp.py
+```
+Open the webapp in your browser 127.0.0.1:5142
+
+
 
 ## Impact
 Vary
