@@ -17,7 +17,7 @@ Open the webapp in your browser 127.0.0.1:5142
 Use the default credentials (username: admin and password: admin) to login
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/2.png"></p>
 You have full control over the web app interface
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/2.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/3.png"></p>
 
 ## Impact
 Vary
