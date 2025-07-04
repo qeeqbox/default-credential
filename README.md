@@ -19,14 +19,17 @@ Use the default credentials (username: admin and password: admin) to login
 You have full control over the web app interface
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/3.png"></p>
 
-## Impact
-Vary
-
 ## Risk
-- Gain unauthorized access
+- Unauthorized Access
+- System Compromise
+- Operational Disruption
+- Legal and Financial Damage
+  - Compliance Failures
+  - Reputation Damage
 
 ## Redemption
 - Disable, remove or change default credentials
+- Alternative Authentication Mechanisms
 
 ## ID
 91f9b046-b802-425a-b71b-64c21c6b1c0f
