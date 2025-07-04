@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/default-credential.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/default-credential.svg"></p>
 
 A threat actor may gain unauthorized access using the default username and password.
 
