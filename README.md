@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/default-credential.svg"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/default-credential.svg"></p>
 
 Manufacturers or developers typically set default credentials, such as username and password combinations, for devices, software, and systems. These credentials are intended for initial access. A threat actor may exploit default credentials to gain unauthorized access to the system or data.
 
