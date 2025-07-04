@@ -13,8 +13,9 @@ Run the webapp using Python
 python3 default-credential/vulnerable-web-app/webapp.py
 ```
 Open the webapp in your browser 127.0.0.1:5142
-
-
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/1.png"></p>
+Use the default credentials (username: admin and password: admin) to login
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/default-credential/main/content/2.png"></p>
 
 ## Impact
 Vary
@@ -27,6 +28,3 @@ Vary
 
 ## ID
 91f9b046-b802-425a-b71b-64c21c6b1c0f
-
-## References
-- [wiki](https://en.wikipedia.org/wiki/default_credential_vulnerability)
