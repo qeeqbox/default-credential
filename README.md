@@ -6,7 +6,7 @@ Manufacturers or developers typically set default credentials, such as username 
 
 Clone this current repo recursively
 ```sh
-git clone --recursive https://github.com/qeeqbox/default-credential
+git clone --recurse-submodules https://github.com/qeeqbox/default-credential
 ```
 Run the webapp using Python
 ```sh
